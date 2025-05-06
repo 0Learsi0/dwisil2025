@@ -1,0 +1,67 @@
+header{
+    background-color: rgba(145, 146, 185, 0);
+    color: rgb(235, 246, 247);
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-style: italic;
+    justify-content: center;
+
+        border-radius: 25px;
+        background: #070707;
+        padding: 25px;
+        height: 70px;
+      
+
+}
+h1{
+    text-shadow: 1px 1.5px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 0 15px;
+    background-color: rgba(204, 216, 221, 0.753);
+    color: rgb(1, 17, 17);
+    
+
+}
+body{
+    background-color: rgba(39, 60, 83, 0.349);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+font-size: 20px;
+
+}
+nav ul li a{
+    color: #111111;
+    font-style: italic;
+    font-size: large;
+    text-shadow: 1px 1px;
+}
+content{
+    display: flex;
+    padding: 0%;}
+
+
+  
+
+    
+    
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+
